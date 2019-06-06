@@ -22,9 +22,9 @@
 		<maven.version>3.5</maven.version>
 	</properties>
 	<modules>
+		<module>bcm_utility</module>
 		<module>bcm_middleware</module>
 		<module>bcm_webapp_mw</module>
-		<module>bcm_utility</module>
 		<module>bcm_persistence</module>
 	</modules>
 </project>

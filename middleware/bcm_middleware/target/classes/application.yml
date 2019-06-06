@@ -1,1 +1,1 @@
-server:  port: 8080
+server:  port: 8080  servlet:    session:      timeout: 30      spring:  profiles:    active:    - local logging:  pattern:    console: "%d %-5level %logger : %msg%n"    level: org.springframework=DEBUG
